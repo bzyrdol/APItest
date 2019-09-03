@@ -1,0 +1,18 @@
+﻿{
+  "Names": [
+    {
+      "Text": "Scaleworks, Inc",
+      "LookupDomain": "scaleworks.com",
+      "MetaDetails": "{\"lookupDomain\":\"scaleworks.com\",\"orgName\":\"Scaleworks, Inc\",\"logo\":\"https://d2ojpxxtu63wzl.cloudfront.net/v1/thumbnail?size=128&url=https://img.fullcontact.com/static/40d3b62ffe2d4c2ec95c44daab22492a_0e9def6219a505687d12bcc457f2beb0a7865e6f109e92d5807e090bee75a05d\",\"location\":{\"locality\":\"Dublin\",\"region\":{\"name\":\"Leinster\",\"code\":null},\"country\":{\"name\":\"Ireland\",\"code\":\"IE\"}},\"companyApiLink\":\"https://api.fullcontact.com/v2/company/lookup?domain=scaleworks.com&apiKey=\"}"
+    }
+  ],
+  "Addresses": [
+    {
+      "Text": "118 Broadway Suite 627 San Antonio, TX 78205",
+      "Addressee": null,
+      "AddressType": "Commercial",
+      "AmbiguityResults": "Scaleworks Inc,",
+      "MetaDetails": "{\"text\":\"118 Broadway Suite 627 San Antonio, TX 78205\",\"line\":1,\"start\":16,\"end\":60,\"verified\":true,\"api_output\":[{\"input_index\":0,\"candidate_index\":0,\"addressee\":null,\"delivery_line_1\":\"118 Broadway St Ste 627\",\"last_line\":\"San Antonio TX 78205-1983\",\"delivery_point_barcode\":\"782051983520\",\"components\":{\"primary_number\":\"118\",\"street_predirection\":null,\"street_name\":\"Broadway\",\"street_suffix\":\"St\",\"city_name\":\"San Antonio\",\"state_abbreviation\":\"TX\",\"zipcode\":\"78205\",\"plus4_code\":\"1983\",\"delivery_point\":\"52\",\"delivery_point_check_digit\":\"0\",\"street_postdirection\":null},\"metadata\":{\"record_type\":\"H\",\"zip_type\":\"Standard\",\"county_fips\":\"48029\",\"county_name\":\"Bexar\",\"carrier_route\":\"C018\",\"congressional_district\":\"35\",\"building_default_indicator\":null,\"rdi\":\"Commercial\",\"elot_sequence\":\"0206\",\"elot_sort\":\"A\",\"latitude\":29.42668,\"longitude\":-98.48784,\"precision\":\"Zip9\",\"time_zone\":\"Central\",\"utc_offset\":-6,\"dst\":true},\"analysis\":{\"dpv_match_code\":\"Y\",\"dpv_footnotes\":\"AABB\",\"dpv_cmra\":\"N\",\"dpv_vacant\":\"N\",\"active\":\"Y\",\"footnotes\":\"L#\"}}]}"
+    }
+  ]
+}
